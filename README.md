@@ -18,7 +18,7 @@ This repository contains all the necessary files and resources needed to create 
 To set up the AI chat bot on your local machine, follow these steps:
 
 **Clone the Repository**: 
-git clone https://github.com/your-username/AI-chat-bot.git
+git clone https://github.com/Samridhi06/AI-Chat-Bot-Using-Python
 
 **Step 1: Install Required Libraries**
 pip install chatterbot
